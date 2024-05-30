@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+streamlit
+feature-engine
+xgboost
+joblib
+seaborn
+matplotlib
+wordcloud
+boto3
+sagemaker
